@@ -7,6 +7,6 @@ Simply a project to learn using GitHub
 
 - Make your changes
 - Submit a pull request
-      Describe your change any why should be accepted.
+     - Describe your change any why should be accepted.
       
     
